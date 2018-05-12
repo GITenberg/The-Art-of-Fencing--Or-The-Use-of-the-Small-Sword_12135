@@ -1,11 +1,14 @@
 _repo: The-Art-of-Fencing--Or-The-Use-of-the-Small-Sword_12135
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Questions sur l'art en fait d'armes. English
 contributor:
   translator:
     agent_name: Mahon, Andrew
     gutenberg_agent_id: '26405'
     url: http://www.gutenberg.org/2009/agents/26405
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Labat, maître d'armes
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '4236'
     url: http://www.gutenberg.org/2009/agents/4236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12135#The-Art-of-Fencing--Or-The-Use-of-the-Small-Sword
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
